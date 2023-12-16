@@ -1,0 +1,11 @@
+/home/luke/git/local/free-boombox/FreeBoombox/bin/Debug/netstandard2.1/FreeBoombox.deps.json
+/home/luke/git/local/free-boombox/FreeBoombox/bin/Debug/netstandard2.1/FreeBoombox.dll
+/home/luke/git/local/free-boombox/FreeBoombox/bin/Debug/netstandard2.1/FreeBoombox.pdb
+/home/luke/git/local/free-boombox/FreeBoombox/obj/Debug/netstandard2.1/FreeBoombox.csproj.AssemblyReference.cache
+/home/luke/git/local/free-boombox/FreeBoombox/obj/Debug/netstandard2.1/PluginInfo.cs
+/home/luke/git/local/free-boombox/FreeBoombox/obj/Debug/netstandard2.1/FreeBoombox.GeneratedMSBuildEditorConfig.editorconfig
+/home/luke/git/local/free-boombox/FreeBoombox/obj/Debug/netstandard2.1/FreeBoombox.AssemblyInfoInputs.cache
+/home/luke/git/local/free-boombox/FreeBoombox/obj/Debug/netstandard2.1/FreeBoombox.AssemblyInfo.cs
+/home/luke/git/local/free-boombox/FreeBoombox/obj/Debug/netstandard2.1/FreeBoombox.csproj.CoreCompileInputs.cache
+/home/luke/git/local/free-boombox/FreeBoombox/obj/Debug/netstandard2.1/FreeBoombox.dll
+/home/luke/git/local/free-boombox/FreeBoombox/obj/Debug/netstandard2.1/FreeBoombox.pdb
